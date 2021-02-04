@@ -30,3 +30,6 @@ https://www.fec.gov/data/browse-data/?tab=bulk-data
 
 ### Table 2 - Candidate
 ![alt text](https://github.com/rainieluo2016/ISTM_6212/blob/main/candidate_final.png?raw=true)
+
+## Detail for the whole project:
+https://github.com/rainieluo2016/ISTM_6212/blob/main/final_project_final_version.ipynb
